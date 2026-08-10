@@ -1,6 +1,7 @@
 
 
 vector<string>ans;
+    vector<string>mp={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz","",""};
 
 void recur(int n , string cur , string digits)
 {
