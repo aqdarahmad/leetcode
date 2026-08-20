@@ -1,3 +1,4 @@
+// Dynamic Programming with recursion to count the number of ways to reach the end while avoiding blocked cells.
 using namespace std;
 #include <bits/stdc++.h>
 int n;

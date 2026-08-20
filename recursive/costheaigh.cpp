@@ -1,3 +1,4 @@
+// Recursive Dynamic Programming solution to find the minimum cost of reaching the last position using 1 or 2 jumps.
 using namespace std;
 #include <bits/stdc++.h>
 int n;
